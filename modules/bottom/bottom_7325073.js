@@ -1,0 +1,1 @@
+MVC.addView("bottom",function(){var t=$(".bottom"),e="<div class='dibu'>© 2011 Zeences Design. All Right Reserved.</div>";return t.html(e),t}).addCtrl("bottom",function(t,e){e.create("bottom")});
